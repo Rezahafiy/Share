@@ -1,10 +1,10 @@
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yk2dqjr/Pngtree-live-streaming-logo-icon-6492830.png" group-title="LIVE STREAMING",PIALA AFF U-23
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yk2dqjr/Pngtree-live-streaming-logo-icon-6492830.png" group-title="Live Streaming",PIALA AFF U-23
 THAILAND VS MYANMAR 
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b2196000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZL4rKqW/BTV-news.png" tvg-id="" tvg-name="Btv news" group-title="Live", Btv news kamboja
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZL4rKqW/BTV-news.png" tvg-id="" tvg-name="Btv news" group-title="Live Streaming", Btv news kamboja
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ETV Live Event" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Live", ETV Live Event
